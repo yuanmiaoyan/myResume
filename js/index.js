@@ -79,6 +79,7 @@ music.addEventListener("click", function () {
     if (audioMusic.paused) {
         audioMusic.play();
         music.className = "music move"
+        return;
     }
     audioMusic.pause();
     music.className = "music"

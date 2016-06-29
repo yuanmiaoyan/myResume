@@ -349,7 +349,8 @@ html,body,.swiper-container,.swiper-slide{
 
 .third-screen .line{
     height: 180%;
-    top: -8.92rem;
+    left: 0;
+    transform-origin: left top;
     transform: rotate(-29deg);
 }
 .dot{
@@ -367,7 +368,7 @@ html,body,.swiper-container,.swiper-slide{
     top:3rem;
     left: .2rem;
     color: #fff;
-    font-size: .38rem;
+    font-size: .3rem;
     line-height: .5rem;
 }
 .time2{
@@ -375,7 +376,7 @@ html,body,.swiper-container,.swiper-slide{
     bottom:3rem;
     right: .2rem;
     color: #fff;
-    font-size: .38rem;
+    font-size: .3rem;
     line-height: .5rem;
 }
 .third-screen .position{
@@ -392,7 +393,7 @@ html,body,.swiper-container,.swiper-slide{
     top:2.5rem;
     left: 3rem;
     color: #fff;
-    font-size: .38rem;
+    font-size: .3rem;
     line-height: .5rem;
 }
 .third-screen .job2{
@@ -400,7 +401,7 @@ html,body,.swiper-container,.swiper-slide{
     bottom:2.5rem;
     left: 0.2rem;
     color: #fff;
-    font-size: .38rem;
+    font-size: .3rem;
     line-height: .5rem;
     width: 4rem;
 }
@@ -411,17 +412,18 @@ html,body,.swiper-container,.swiper-slide{
     right: 1.5rem;
 }
 .third-screen .line3{
-    height: 100%;
-    top: -4.92rem;
+    height: 60%;
+    top: 0rem;
+    left: 10%;
     transform: rotate(-29deg);
 }
 .third-screen .line4{
     height: 100%;
     top: auto;
-    bottom: -7.92rem;
+    bottom: 0rem;
     transform: rotate(-29deg);
     left: auto;
-    right: 0;
+    right:10%;
 }
 .third-screen .left{
     right: .5rem;
