@@ -482,12 +482,12 @@ html,body,.swiper-container,.swiper-slide{
     margin-left: -3.2rem;
     top:4rem;
     padding: 0.2rem;
-    height: 6rem;
+    height: 4.7rem;
     text-align: left;
 }
-#count{
-    display: none;
-}
+/*#count{*/
+    /*display: none;*/
+/*}*/
 /*#page4 .count{*/
    /*!* -webkit-animation: zoomOut 1s;*/
     /*animation: zoomOut 1s;*!*/
