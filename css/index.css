@@ -151,7 +151,7 @@ html,body,.swiper-container,.swiper-slide{
     position: absolute;
     right: 3.66rem;
     top:2rem;
-    opacity: 0;
+    /*opacity: 0;*/
 }
 #page2 .cloud01,#page2 .cloud03{
     -webkit-animation: toRight 4s linear infinite both;
@@ -190,7 +190,7 @@ html,body,.swiper-container,.swiper-slide{
     position: absolute;
     right: 2.26rem;
     top:2.5rem;
-    opacity: 0;
+    /*opacity: 0;*/
 }
 #page2 .cloud02{
     -webkit-animation: toLeft 4s linear infinite both;
@@ -207,7 +207,7 @@ html,body,.swiper-container,.swiper-slide{
     }
     100%{
         transform: translate(0);
-        opacity: 1;
+        /*opacity: 1;*/
     }
 }
 @-webkit-keyframes toLeft {
@@ -219,7 +219,7 @@ html,body,.swiper-container,.swiper-slide{
     }
     100%{
         transform: translate(0);
-        opacity: 1;
+        /*opacity: 1;*/
     }
 }
 .cloud02 img{
